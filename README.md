@@ -1,4 +1,4 @@
-duplicate_MZs
+duplicate_MZs.py
 =============
 
 Single MZ twins are often genotyped. However, duplication of genotypes for un-genotyped co-twin is usually required.
